@@ -16,7 +16,7 @@ public class Biography {
 
         Full name = Stefan Zweig
         County = Austria
-        Is still alive: No (28 November 1881 – 22 February 1942)
+        Is still alive: No (28  November 1881 – 22 February 1942)
         Some of his books as listed below:
 
         BookName                            Genre           TotalPage

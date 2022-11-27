@@ -15,7 +15,7 @@ public class Author {
     /**
      * WORK ON BOOK CLASS FIRST
      Create a custom constructor that will take 6 args and defines the Author object
-     Define Author class fields as firstName, lastName, country, isAlive, age, list of books
+     Define Author  class fields as firstName, lastName, country, isAlive, age, list of books
      */
 
     //Create 6 args custom constructor here
